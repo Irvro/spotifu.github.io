@@ -1,2 +1,2 @@
-# spotifu.github.io
+# spotifu
 Proyecto de Flexbox spotifu
